@@ -28,3 +28,6 @@ Jogadores que se divertem com desafios ( Entreterimento ). Público alvo é de 1
 
 • Informação  
 <sub>Jogo 2D plataforma, onde deve-se passar de level coletando o máximo de moedas possíves as quais são opcionais, mas com elas gerando um nível de dificuldade maior ainda, pois são de dificil acesso e algumas são escondidas.</sub>
+
+- Arte (gráficos)
+- Sons
