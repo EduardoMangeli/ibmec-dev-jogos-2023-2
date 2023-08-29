@@ -1,33 +1,62 @@
 # ibmec-dev-jogos-2023-2
 
 **Qual o propósito do jogo de vocês?**  
-Fornecer uma experiência desafiadora. A dificuldade do jogo faz com que a sensação de obter algum progresso seja muito gratificante, então podemos dizer que o propósito principal do jogo é provocar esse sentimento de superação e desafio no jogador.
+
 
 **Qual é o público alvo?**  
-Jogadores que se divertem com desafios ( Entreterimento ). Público alvo é de 16 - 30 anos.
+
 
 • Tomada de decisão  
-<sub>Jogo de Piratas</sub>
+<sub></sub>
 
 • Objetivos  
-<sub>Passar de fases coletando o máximo de "moedas" possíveis</sub>
+<sub></sub>
 
 • Espaço do Jogo  
-<sub>Jogo 2D, personagem anda (navega) pelo mapa, mapa inspirado em Pokemon Fire Red</sub>
+<sub>Jogo 2D, personagem anda (navega) pelo mapa, mapa inspirado em Pokemon Fire Red e lutas inspiradas em Yu-gi-oh</sub>
 
 • Oposição  
-<sub>Crianças que gostam de tudo na mão</sub>
+<sub></sub>
 
 • Gerência de Recursos  
-<sub>Pessoas para desenvolver</sub>
-<sub>Pessoas para fazer o design</sub>
-<sub>Pessoas para desenvolver as ideias do jogo</sub>
+<sub></sub>
+
 
 • Tokens  
 <sub>?</sub>
 
 • Informação  
-<sub>Jogo 2D plataforma, onde deve-se passar de level coletando o máximo de moedas possíves as quais são opcionais, mas com elas gerando um nível de dificuldade maior ainda, pois são de dificil acesso e algumas são escondidas.</sub>
+<sub>
+ANOTAÇÕES 29.08.2023 ( By William Fagundes )
+- Mundo feito em Pixel art
+- Cartas feitas no MidJourney
+- 16 Deuses Gregos, que são os criadores das cartas:
+  Zeus ( PERSONAGENS CRIADOS )
+  Hera ( FAZENDO PERSONAGENS )
+  Poseidon 
+  Demeter 
+  Hephaestos 
+  Afrodite 
+  Apollo 
+  Artemis 
+  Hermes 
+  Ares 
+  Athena 
+  Dionysos 
+  Hades ( PERSONAGENS CRIADOS )
+  Hestia 
+  Persefone 
+  Heracles 
+  
+- Adicionar mais Deuses como DLC ( FUTURAMENTE )
 
-- Arte (gráficos)
-- Sons
+- Gameplay
+  .Combate
+  Feito em cartas, combate gera dinheiro e a chance de item ( que pode ser uma carta ).
+
+  .Loja
+  Possivel comprar pacote de 4 cartas de um pacote misto, ou 4 cartas de um pacote de um Deus especifico pagando mais.
+
+  .Mundo
+  Mundo inspirado em Pokemon, feito por pixelart, com varios NPCs espalhados pelo mundo para combate. NPCs divididos em Chefes ( parte da historia ) e de "farm".
+</sub>
