@@ -31,32 +31,32 @@ ANOTAÇÕES 29.08.2023 ( By William Fagundes )
 - Mundo feito em Pixel art
 - Cartas feitas no MidJourney
 - 16 Deuses Gregos, que são os criadores das cartas:
-  <sub>Zeus ( PERSONAGENS CRIADOS )</sub>
-  <sub>Hera ( FAZENDO PERSONAGENS )</sub>
-  <sub>Poseidon</sub>
-  <sub>Demeter</sub>
-  <sub>Hephaestos</sub>
-  <sub>Afrodite</sub>
-  <sub>Apollo</sub>
-  <sub>Artemis</sub>
-  <sub>Hermes</sub>
-  <sub>Ares</sub>
-  <sub>Athena</sub>
-  <sub>Dionysos</sub>
-  <sub>Hades ( PERSONAGENS CRIADOS )</sub>
-  <sub>Hestia</sub>
-  <sub>Persefone</sub>
-  <sub>Heracles</sub>
+  <p>Zeus ( PERSONAGENS CRIADOS )</p>
+  <p>Hera ( FAZENDO PERSONAGENS )</p>
+  <p>Poseidon</p>
+  <p>Demeter</p>
+  <p>Hephaestos</p>
+  <p>Afrodite</p>
+  <p>Apollo</p>
+  <p>Artemis</p>
+  <p>Hermes</p>
+  <p>Ares</p>
+  <p>Athena</p>
+  <p>Dionysos</p>
+  <p>Hades ( PERSONAGENS CRIADOS )</p>
+  <p>Hestia</p>
+  <p>Persefone</p>
+  <p>Heracles</p>
   
 - Adicionar mais Deuses como DLC ( FUTURAMENTE )
 
 - Gameplay
-  <sub>.Combate</sub>
-  <sub>Feito em cartas, combate gera dinheiro e a chance de item ( que pode ser uma carta ).</sub>
+  <p>.Combate</sub>
+  <p>Feito em cartas, combate gera dinheiro e a chance de item ( que pode ser uma carta ).</p>
 
   .Loja
-  <sub>Possivel comprar pacote de 4 cartas de um pacote misto, ou 4 cartas de um pacote de um Deus especifico pagando mais.</sub>
+  <p>Possivel comprar pacote de 4 cartas de um pacote misto, ou 4 cartas de um pacote de um Deus especifico pagando mais.</p>
 
   .Mundo
-  <sub>Mundo inspirado em Pokemon, feito por pixelart, com varios NPCs espalhados pelo mundo para combate. NPCs divididos em Chefes ( parte da historia ) e de "farm".</sub>
+  <p>Mundo inspirado em Pokemon, feito por pixelart, com varios NPCs espalhados pelo mundo para combate. NPCs divididos em Chefes ( parte da historia ) e de "farm".</p>
 </sub>
