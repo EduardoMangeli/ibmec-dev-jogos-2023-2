@@ -30,11 +30,10 @@
 ANOTAÇÕES 29.08.2023 ( By William Fagundes )
 - Mundo feito em Pixel art
 - Cartas feitas no MidJourney
-- 16 Deuses Gregos, que são os criadores das cartas:
-  <p>Zeus ( PERSONAGENS CRIADOS )</p>
-  <p>Hera ( FAZENDO PERSONAGENS )</p>
+- 12 Deuses Gregos, que são os criadores das cartas:
+  <p>Zeus</p>
+  <p>Hera</p>
   <p>Poseidon</p>
-  <p>Demeter</p>
   <p>Hephaestos</p>
   <p>Afrodite</p>
   <p>Apollo</p>
@@ -42,11 +41,8 @@ ANOTAÇÕES 29.08.2023 ( By William Fagundes )
   <p>Hermes</p>
   <p>Ares</p>
   <p>Athena</p>
-  <p>Dionysos</p>
-  <p>Hades ( PERSONAGENS CRIADOS )</p>
+  <p>Hades</p>
   <p>Hestia</p>
-  <p>Persefone</p>
-  <p>Heracles</p>
   
 - Adicionar mais Deuses como DLC ( FUTURAMENTE )
 
