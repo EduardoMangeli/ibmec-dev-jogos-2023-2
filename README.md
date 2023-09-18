@@ -11,6 +11,11 @@ Jogo de estrategia e aventura que combina elementos de um RPG de exploração co
 
 Adolescentes(13+) e adultos. Fãs de mitologia grega, amantes de jogos de estrategia e jogadores que apreciam RPGs de exploração.
 
+**Enredo e Cenario**
+
+O jogo se passa na Grecia Antiga e é vagamente baseado na mitologia grega. O protagonista é um jovem anão que tem o sonho de derrotar os 12 deuses no jogo de cartas criado por eles chamado "Battle God" e se tornar o melhor jogador do mundo. Para isso ele precisa enfrentar diversos adversarios em seu caminho e conseguir novas cartas para aprimorar seu deck e se tornar cada vez mais forte para alcançar seu objetivo
+
+
 
 • Tomada de decisão  
 <sub></sub>
