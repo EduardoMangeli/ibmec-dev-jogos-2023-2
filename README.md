@@ -18,7 +18,7 @@ O jogo se passa na Grecia Antiga e é vagamente baseado na mitologia grega. O pr
 
 
 • Tomada de decisão  
-<sub>O jogador precisa determinar quais cartas ele deseja utilizar em uma batalha, pois ele arrisca perder essas cartas se for derrotado. \nComo usar o loot que recebeu: prefere usar loot para qual opção?: (1) - abrir um caminho secreto (2) - comprar uma carta nova (3) Comprar recursos como poção</sub>
+<sub>- O jogador precisa determinar quais cartas ele deseja utilizar em uma batalha, pois ele arrisca perder essas cartas se for derrotado. \n- Como usar o loot que recebeu: prefere usar loot para qual opção?: (1) - abrir um caminho secreto (2) - comprar uma carta nova (3) Comprar recursos como poção</sub>
 
 • Objetivos  
 <sub>Se tornar o mais forte possível derrotando outros monstros/jogadores e obtendo cartas mais poderosas, e completar as missões principais do jogo</sub>
@@ -33,7 +33,7 @@ O jogo se passa na Grecia Antiga e é vagamente baseado na mitologia grega. O pr
 
 • Gerência de Recursos  
 <sub>- O jogador precisa gerenciar os itens que possui em seu inventário, que pode incluir poção de vida, poção de “buff”, e outros tipos de itens. 
-- Gastar recurso demais apresenta um problema se o jogador se encontrar em uma batalha difícil
+\n- Gastar recurso demais apresenta um problema se o jogador se encontrar em uma batalha difícil
 </sub>
 
 
