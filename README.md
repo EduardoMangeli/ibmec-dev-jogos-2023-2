@@ -2,6 +2,9 @@
 
 **Qual o propósito do jogo de vocês?**  
 
+*Descrição*
+Jogo de estrategia e aventura que combina elementos de um RPG de exploração com combates de cartas baseados na mitologia grega 
+
 
 **Qual é o público alvo?**  
 
