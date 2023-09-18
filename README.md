@@ -4,10 +4,12 @@
 
 **Descrição**
 
-Jogo de estrategia e aventura que combina elementos de um RPG de exploração com combates de cartas baseados na mitologia grega
+Jogo de estrategia e aventura que combina elementos de um RPG de exploração com combates de cartas baseados na mitologia grega.
 
 
 **Qual é o público alvo?**  
+
+Adolescentes(13+) e adultos. Fãs de mitologia grega, amantes de jogos de estrategia e jogadores que apreciam RPGs de exploração.
 
 
 • Tomada de decisão  
