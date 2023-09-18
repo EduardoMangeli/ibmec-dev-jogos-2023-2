@@ -21,7 +21,7 @@ O jogo se passa na Grecia Antiga e é vagamente baseado na mitologia grega. O pr
 <sub></sub>
 
 • Objetivos  
-<sub></sub>
+<sub>Se tornar o mais forte possível derrotando outros monstros/jogadores e obtendo cartas mais poderosas, e completar as missões principais do jogo</sub>
 
 • Espaço do Jogo  
 <sub>Jogo 2D, personagem anda (navega) pelo mapa, mapa inspirado em Pokemon Fire Red e lutas inspiradas em Yu-gi-oh</sub>
