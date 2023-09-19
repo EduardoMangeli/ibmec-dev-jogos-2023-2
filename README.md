@@ -36,9 +36,6 @@ Monstros que se encontram no mundo onde o jogador explora</sub>
 Gastar recurso demais apresenta um problema se o jogador se encontrar em uma batalha difícil</sub>
 
 
-• Tokens  
-<sub>?</sub>
-
 • Informação  
 <sub>
 ANOTAÇÕES 29.08.2023 ( By William Fagundes )
